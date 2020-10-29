@@ -1,3 +1,6 @@
+see https://github.com/bastie/NetVampire for newer versions
+
+
 JavApi
 ======
 
